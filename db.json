@@ -15,11 +15,18 @@
   "sermons": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Sunday 9.15",
+      "url": "https://s3.us-east-1.amazonaws.com/media.1901.churchinsight.com/e60beead-3617-4eb0-a088-36b9408801ae.mp3"
     },
     {
-      "id": 2,
-      "title": "hello"
+      "id": 3,
+      "title": "Sunday 10:45",
+      "url": "https://s3.us-east-1.amazonaws.com/media.1901.churchinsight.com/3a9d4d8f-d5c8-4dfb-b9e4-279cda178a91.mp3"
+    },
+    {
+      "id": 3,
+      "title": "Sunday 6.30pm",
+      "url": "https://s3.us-east-1.amazonaws.com/media.1901.churchinsight.com/b4117c05-9a16-45e9-801c-3895103ca241.mp3"
     }
   ]
 }
