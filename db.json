@@ -15,7 +15,7 @@
   "sermons": [
     {
       "id": 1,
-      "title": "Sunday 9.15",
+      "title": "Sunday 9:15",
       "url": "https://s3.us-east-1.amazonaws.com/media.1901.churchinsight.com/e60beead-3617-4eb0-a088-36b9408801ae.mp3"
     },
     {
@@ -25,7 +25,7 @@
     },
     {
       "id": 3,
-      "title": "Sunday 6.30pm",
+      "title": "Sunday 6:30",
       "url": "https://s3.us-east-1.amazonaws.com/media.1901.churchinsight.com/b4117c05-9a16-45e9-801c-3895103ca241.mp3"
     }
   ]
