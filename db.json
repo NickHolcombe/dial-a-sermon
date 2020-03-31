@@ -8,24 +8,4 @@
   "profile": {
     "name": "typicode"
   },
-  "sermons": [
-    {
-      "id": 1,
-      "title": "example 1",
-      "url": "url1",
-      "tag": "9:15"
-    },
-    {
-      "id": 2,
-      "title": "example 2",
-      "url": "url2",
-      "tag": "10:45"
-    },
-    {
-      "id": 3,
-      "title": "example 3",
-      "url": "url3",
-      "tag": "6:30"
-    }
-  ]
 }
